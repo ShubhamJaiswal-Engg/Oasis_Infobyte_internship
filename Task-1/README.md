@@ -1,1 +1,1 @@
-# It is calculator project using JavaScript
+# It is ToDo list using HTML5, CSS and JavaScript
