@@ -1,1 +1,1 @@
-# Task-2
+# It is calculator project using JavaScript 
