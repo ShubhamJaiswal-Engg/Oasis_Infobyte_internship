@@ -1,3 +1,5 @@
+#Oasis_Infobyte_internship
+
 I'm thrilled to announce the successful completion of my internship at Oasis Infobyte! 🙌 During this journey, I had the incredible opportunity to sharpen my JavaScript skills and work on real-world projects that significantly boosted my confidence as a developer.
 
 Key takeaways:
